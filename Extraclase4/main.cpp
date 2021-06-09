@@ -9,12 +9,12 @@ int main(){
     SHA_1 sha_1;
     string msg = "Hola Mundo";
 
-    cout << "Mensaje de entrada: " << msg << endl;
+    cout << "Mensaje del transmisor: " << msg << endl <<endl;
     string encript = sha_1.resultSha1(msg);
-    cout << "El mensaje encriptado con Sha1 es: " << encript << endl;
+    cout << "El mensaje del receptor con Sha1 es: " << encript << endl;
 
     auto hash = ConstexprHashes::md5("Hola Mundo");
-    cout << "El mensaje encriptado con MD5 es: ";
+    cout << "El mensaje del receptor con MD5 es: ";
     cout << hex;
     for (auto i : hash) {
         cout << (static_cast<int>(i) & 0xff);

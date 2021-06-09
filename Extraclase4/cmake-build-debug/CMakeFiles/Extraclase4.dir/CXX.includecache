@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Usuario/Desktop/Extraclase4/MD5.h
+C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/MD5.h
 array
 -
 iostream
@@ -14,11 +14,7 @@ iostream
 cstdint
 -
 
-C:/Users/Usuario/Desktop/Extraclase4/SHA_1.cpp
-SHA_1.h
-C:/Users/Usuario/Desktop/Extraclase4/SHA_1.h
-
-C:/Users/Usuario/Desktop/Extraclase4/SHA_1.h
+C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/SHA_1.h
 iostream
 -
 string
@@ -30,13 +26,13 @@ cmath
 stack
 -
 
-C:/Users/Usuario/Desktop/Extraclase4/main.cpp
+C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/main.cpp
 iostream
 -
 string
 -
 SHA_1.h
-C:/Users/Usuario/Desktop/Extraclase4/SHA_1.h
+C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/SHA_1.h
 MD5.h
-C:/Users/Usuario/Desktop/Extraclase4/MD5.h
+C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/MD5.h
 

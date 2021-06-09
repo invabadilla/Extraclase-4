@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Usuario/Desktop/Extraclase4/SHA_1.cpp" "C:/Users/Usuario/Desktop/Extraclase4/cmake-build-debug/CMakeFiles/Extraclase4.dir/SHA_1.cpp.obj"
-  "C:/Users/Usuario/Desktop/Extraclase4/main.cpp" "C:/Users/Usuario/Desktop/Extraclase4/cmake-build-debug/CMakeFiles/Extraclase4.dir/main.cpp.obj"
+  "C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/SHA_1.cpp" "C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/cmake-build-debug/CMakeFiles/Extraclase4.dir/SHA_1.cpp.obj"
+  "C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/main.cpp" "C:/Users/Usuario/Documents/GitHub/Extraclase-4/Extraclase4/cmake-build-debug/CMakeFiles/Extraclase4.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
